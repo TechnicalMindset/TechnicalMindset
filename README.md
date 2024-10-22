@@ -126,9 +126,6 @@ Together, we can create a supportive community that cultivates high-demand tech 
 
 
 
-## 🏆 GitHub Stats
-![Alison's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnicalMindset&show_icons=true&theme=radical&count_private=true&hide_title=true&hide=prs)
-
 ### 🌟 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TechnicalMindset&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
