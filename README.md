@@ -7,7 +7,7 @@
 
 ---
 
-🏆 ###💡 What You'll Find Here:
+🏆 💡 What You'll Find Here:
 
 🏆 A variety of hands-on projects and FREE study materials covering:
 
