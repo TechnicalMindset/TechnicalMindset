@@ -7,7 +7,7 @@
 
 ---
 
-🏆 ***💡 What You'll Find Here:
+🏆 ###💡 What You'll Find Here:
 
 🏆 A variety of hands-on projects and FREE study materials covering:
 
@@ -25,7 +25,7 @@
 
 ---
 
-🛠️ **Learning Phases:**
+🛠️## **Learning Phases:**
 
 The roadmap is structured into specific phases, each focusing on different aspects of cloud and virtualization engineering. Each phase includes:
 
@@ -49,7 +49,7 @@ Every bit of support helps fuel my passion and allows me to dedicate more time t
 
 ---
 
-🤝 **🤝 Let's Collaborate:**
+🤝 ## **🤝 Let's Collaborate:**
 I believe the best way to grow is by working together. Here are some ways you can get involved:
 
 - 💛 Contribute to Your First Issue:
