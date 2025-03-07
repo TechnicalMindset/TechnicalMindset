@@ -99,11 +99,6 @@ I believe the best way to grow is by working together. Here are some ways you ca
       </a>
     </td>
     <td style="padding-right: 40px;">
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
-      </a>
-    </td>
-    <td style="padding-right: 40px;">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
       </a>
