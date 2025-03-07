@@ -2,35 +2,21 @@
 
 # Welcome to My Open-Source Journey! 🌟
 
-🌼 **I simplify the tech journey by creating and enhancing open-source projects specifically for beginners seeking an easy start.** 🌼
+
+🌼 **Simplifying the tech journey by creating and enhancing open-source projects specifically for beginners seeking an easy start.** 🌼
 
 ---
 
 ## 🏆 💡 What You'll Find Here:
 
-A variety of hands-on projects and **FREE study materials** covering:
+A variety of hands-on projects covering:
 
 - ✅ **Linux**
 - ✅ **Networking**
 - ✅ **Virtualization with VMware**
-- ✅ **Cloud Computing** (AWS and Azure)
 - ✅ **Database Management**
-- ✅ **Kubernetes**
-- ✅ **Ansible**
 - ✅ **Python**
-- ✅ **Terraform**
-- ✅ **Docker**
-- ✅ **PowerShell**
 
----
-
-## 🛠️ **Learning Phases:**
-
-The roadmap is structured into specific phases, each focusing on different aspects of cloud and virtualization engineering. Each phase includes:
-
-- ✅ **Courses**: Essential lectures to build relevant skills.
-- ✅ **Hands-on Projects**: Practical applications of your learning.
-- ✅ **Key Performance Indicators (KPIs)**: Measurable goals to track your progress.
 
 ---
 
@@ -40,7 +26,6 @@ Your support means everything! If you find value in my work, please consider:
 
 - 🌟 **Following me on GitHub** to stay updated with new projects.
 - ⭐ **Starring my repositories** to show your appreciation.
-- 🍕 **Buying me a coffee** or **sponsoring a project** (optional but deeply appreciated!).
 
 Every bit of support helps fuel my passion and allows me to dedicate more time to creating resources for everyone. 🙌
 
@@ -64,11 +49,6 @@ I believe the best way to grow is by working together. Here are some ways you ca
 - 💛 **Add Insights**:  
   Have a unique perspective or tool that could improve a project? Share your thoughts in the issues or pull requests.
 
----
-
-## **Together, We Can Make Learning Beginner-Friendly!** 🌟
-
-By collaborating, we can create a supportive community that cultivates high-demand tech skills and makes learning accessible to everyone.
 
 ---
 
