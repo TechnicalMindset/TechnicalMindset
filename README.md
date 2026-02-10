@@ -12,11 +12,12 @@
 A variety of hands-on projects covering:
 
 - ✅ **Easy Iot building Ideas med Lego**
+- ✅ **Python**
 - ✅ **Linux**
 - ✅ **Networking**
 - ✅ **Virtualization with VMware**
 - ✅ **Database Management**
-- ✅ **Python**
+
 
 
 ---
