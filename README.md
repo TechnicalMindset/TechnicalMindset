@@ -28,6 +28,7 @@ Your support means everything! If you find value in my work, please consider:
 
 - 🌟 **Following me on GitHub** to stay updated with new projects.
 - ⭐ **Starring my repositories** to show your appreciation.
+- - 🌟 **Following me on Linkedin** 
 
 Every bit of support helps fuel my passion and allows me to dedicate more time to creating resources for everyone. 🙌
 
