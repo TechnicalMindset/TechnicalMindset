@@ -11,6 +11,7 @@
 
 A variety of hands-on projects covering:
 
+- ✅ **Easy Iot building Ideas med Lego**
 - ✅ **Linux**
 - ✅ **Networking**
 - ✅ **Virtualization with VMware**
