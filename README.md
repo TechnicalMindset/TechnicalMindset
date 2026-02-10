@@ -11,7 +11,7 @@
 
 A variety of hands-on projects covering:
 
-- ✅ **Easy Iot building Ideas med Lego**
+- ✅ **Easy Iot building med Lego Spike set**
 - ✅ **Python**
 - ✅ **Linux**
 - ✅ **Networking**
